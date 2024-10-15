@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar" sourcepath="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.aventstack"/>
+			<attribute name="maven.artifactId" value="extentreports"/>
+			<attribute name="maven.version" value="5.0.9"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar" sourcepath="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-firefox-driver"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.3/webdrivermanager-5.5.3.jar" sourcepath="C:/Users/Admin/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.3/webdrivermanager-5.5.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="5.5.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar" sourcepath="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar" sourcepath="C:/Users/Admin/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi"/>
+			<attribute name="maven.version" value="5.2.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/apache/poi/poi-ooxml/5.2.5/poi-ooxml-5.2.5.jar" sourcepath="C:/Users/Admin/.m2/repository/org/apache/poi/poi-ooxml/5.2.5/poi-ooxml-5.2.5-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi-ooxml"/>
+			<attribute name="maven.version" value="5.2.5"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/testng-7.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-4.12.1.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-support/4.10.0/selenium-support-4.10.0.jar" sourcepath="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-support/4.10.0/selenium-support-4.10.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="4.10.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4.jar" sourcepath="C:/Users/Admin/.m2/repository/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.bytebuddy"/>
+			<attribute name="maven.artifactId" value="byte-buddy"/>
+			<attribute name="maven.version" value="1.14.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
